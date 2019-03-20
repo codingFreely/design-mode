@@ -1,1 +1,1 @@
-import './singleton'
+import './adapter'
