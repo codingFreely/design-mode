@@ -1,1 +1,1 @@
-import './decorator'
+import './proxy/agent'

@@ -1,0 +1,11 @@
+代理模式：
+使用者无权访问目标对象
+中间加代理，通过代理做授权和控制
+
+场景
+dom事件代理
+jquery $.proxy(callback, context) $.proxy用于指定callback内的context指向
+es6 proxy
+
+设计原则验证
+代理类和目标类分离，隔离开目标类和使用者,符合开放封闭原则
