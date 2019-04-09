@@ -100,4 +100,4 @@ Promise举例说明S、O
 ***在constructor方法中，成员变量啥类型就传入对应类型的参数值，比如层有多个车位，应该在constructor中声明
 参数places初始化this.places = places，而不是直接在constructor中写this.places = [new place(), ...]
 ********************
-
+当一个产品，一个功能有不同类型，实现时 使用interface
